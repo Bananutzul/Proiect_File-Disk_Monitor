@@ -1,0 +1,7 @@
+Script started on 2026-01-04 22:40:11+02:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="205" LINES="41"]
+]666;vte.shell.postexec=0\]7;file://ubuntu/home/leonardo/Proiect_File-Disk_Monitor\]0;leonardo@ubuntu:~/Proiect_File-Disk_Monitor\]666;vte.shell.precmd!\[?2004h]0;leonardo@ubuntu: ~/Proiect_File-Disk_Monitor[01;32mleonardo@ubuntu[00m:[01;34m~/Proiect_File-Disk_Monitor[00m$ ls
+[?2004l]133;C\]666;vte.shell.preexec!\README.md  [0m[01;32mcolectare_date.sh[0m  [01;34mdate[0m  [01;32mparse.sh[0m  parse_df.sh
+]666;vte.shell.postexec=0\]7;file://ubuntu/home/leonardo/Proiect_File-Disk_Monitor\]0;leonardo@ubuntu:~/Proiect_File-Disk_Monitor\]666;vte.shell.precmd!\[?2004h]0;leonardo@ubuntu: ~/Proiect_File-Disk_Monitor[01;32mleonardo@ubuntu[00m:[01;34m~/Proiect_File-Disk_Monitor[00m$ exi[K[K[Kexit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2026-01-04 22:40:43+02:00 [COMMAND_EXIT_CODE="0"]
