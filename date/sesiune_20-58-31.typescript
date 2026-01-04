@@ -1,0 +1,22 @@
+Script started on 2026-01-04 20:58:31+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+[?2004h]0;horia@pause: ~/Proiect_File-Disk_Monitor[01;32mhoria@pause[00m:[01;34m~/Proiect_File-Disk_Monitor[00m$ df
+[?2004lFilesystem                        1K-blocks     Used Available Use% Mounted on
+tmpfs                                602900     1592    601308   1% /run
+efivarfs                                256       71       186  28% /sys/firmware/efi/efivars
+/dev/mapper/ubuntu--vg-ubuntu--lv  29911932 14041252  14325876  50% /
+tmpfs                               3014500        0   3014500   0% /dev/shm
+tmpfs                                  5120        8      5112   1% /run/lock
+/dev/sda2                           1992552   108512   1762800   6% /boot
+/dev/sda1                           1098632     6516   1092116   1% /boot/efi
+tmpfs                                602900      148    602752   1% /run/user/1000
+[?2004h]0;horia@pause: ~/Proiect_File-Disk_Monitor[01;32mhoria@pause[00m:[01;34m~/Proiect_File-Disk_Monitor[00m$ cd[K[Kls -l
+[?2004ltotal 20
+-rwxrwxr-x 1 horia horia  122 Jan  4 19:15 [0m[01;32mcolectare_date.sh[0m
+drwxrwxr-x 2 horia horia 4096 Jan  4 20:58 [01;34mdate[0m
+-rwxrw-r-- 1 horia horia 1469 Jan  4 20:42 [01;32mparse_df.sh[0m
+-rwxrwxr-x 1 horia horia 1932 Jan  4 19:15 [01;32mparse.sh[0m
+-rw-rw-r-- 1 horia horia  491 Jan  4 19:15 README.md
+[?2004h]0;horia@pause: ~/Proiect_File-Disk_Monitor[01;32mhoria@pause[00m:[01;34m~/Proiect_File-Disk_Monitor[00m$ exit
+[?2004lexit
+
+Script done on 2026-01-04 20:58:41+00:00 [COMMAND_EXIT_CODE="0"]
