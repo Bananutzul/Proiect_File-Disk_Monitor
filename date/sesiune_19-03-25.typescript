@@ -1,32 +1,0 @@
-Script started on 2025-12-21 19:03:25+00:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="80" LINES="24"]
-[?2004h]0;horia@pause: ~/proiect_itbi[01;32mhoria@pause[00m:[01;34m~/proiect_itbi[00m$ cd ~
-[?2004l[?2004h]0;horia@pause: ~[01;32mhoria@pause[00m:[01;34m~[00m$ ls -l
-[?2004ltotal 56
-drwxrwxr-x 2 horia horia 4096 Oct 17 05:50 [0m[01;34masclab[0m
-drwxrwxr-x 2 horia horia 4096 Oct 21 19:20 [01;34massembly[0m
-drwxrwxr-x 2 horia horia 4096 Oct 22 09:19 [01;34mbin[0m
-drwxr-xr-x 3 horia horia 4096 Oct 20 06:59 [01;34mDesktop[0m
-drwxr-xr-x 5 horia horia 4096 Oct  3 17:58 [01;34mDocuments[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mDownloads[0m
-drwxrwxr-x 7 horia horia 4096 Dec 18 17:26 [01;34mitbi_laboratoare[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mMusic[0m
-drwxr-xr-x 3 horia horia 4096 Oct 25 12:44 [01;34mPictures[0m
-drwxrwxr-x 3 horia horia 4096 Dec 21 19:03 [01;34mproiect_itbi[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mPublic[0m
-drwx------ 4 horia horia 4096 Oct  3 18:03 [01;34msnap[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mTemplates[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mVideos[0m
-[?2004h]0;horia@pause: ~[01;32mhoria@pause[00m:[01;34m~[00m$ df -h
-[?2004lFilesystem                         Size  Used Avail Use% Mounted on
-tmpfs                              589M  1.7M  588M   1% /run
-efivarfs                           256K   68K  189K  27% /sys/firmware/efi/efivars
-/dev/mapper/ubuntu--vg-ubuntu--lv   29G   14G   14G  50% /
-tmpfs                              2.9G   60M  2.9G   3% /dev/shm
-tmpfs                              5.0M  8.0K  5.0M   1% /run/lock
-/dev/sda2                          2.0G  106M  1.7G   6% /boot
-/dev/sda1                          1.1G  6.4M  1.1G   1% /boot/efi
-tmpfs                              589M  140K  589M   1% /run/user/1000
-[?2004h]0;horia@pause: ~[01;32mhoria@pause[00m:[01;34m~[00m$ exit
-[?2004lexit
-
-Script done on 2025-12-21 19:03:32+00:00 [COMMAND_EXIT_CODE="0"]

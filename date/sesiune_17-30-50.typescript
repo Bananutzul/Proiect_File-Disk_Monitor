@@ -1,22 +1,0 @@
-Script started on 2025-12-28 17:30:50+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
-[?2004h]0;horia@pause: ~[01;32mhoria@pause[00m:[01;34m~[00m$ ls -l
-[?2004ltotal 60
-drwxrwxr-x 2 horia horia 4096 Oct 17 05:50 [0m[01;34masclab[0m
-drwxrwxr-x 2 horia horia 4096 Oct 21 19:20 [01;34massembly[0m
-drwxrwxr-x 2 horia horia 4096 Oct 22 09:19 [01;34mbin[0m
-drwxr-xr-x 3 horia horia 4096 Oct 20 06:59 [01;34mDesktop[0m
-drwxr-xr-x 5 horia horia 4096 Oct  3 17:58 [01;34mDocuments[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mDownloads[0m
-drwxrwxr-x 7 horia horia 4096 Dec 18 17:26 [01;34mitbi_laboratoare[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mMusic[0m
-drwxr-xr-x 3 horia horia 4096 Oct 25 12:44 [01;34mPictures[0m
-drwxrwxr-x 4 horia horia 4096 Dec 28 17:30 [01;34mProiect_File-Disk_Monitor[0m
-drwxrwxr-x 2 horia horia 4096 Dec 21 19:21 [01;34mproiect_itbi[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mPublic[0m
-drwx------ 4 horia horia 4096 Oct  3 18:03 [01;34msnap[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mTemplates[0m
-drwxr-xr-x 2 horia horia 4096 Oct  3 17:51 [01;34mVideos[0m
-[?2004h]0;horia@pause: ~[01;32mhoria@pause[00m:[01;34m~[00m$ exit
-[?2004lexit
-
-Script done on 2025-12-28 17:30:57+00:00 [COMMAND_EXIT_CODE="0"]
