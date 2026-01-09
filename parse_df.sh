@@ -16,7 +16,7 @@ BEGIN {
 		getline
 	}
 
-	if (index($0, "exit") != 0) {
+	if (index($0, "exit") != 0 || index($0, "ls -l") != 0) {
 		exit
 	}
 	
