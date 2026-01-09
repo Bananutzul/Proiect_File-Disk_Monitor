@@ -17,7 +17,7 @@ BEGIN {
 	}
 
 	if (index($0, "exit") != 0 || index($0, "ls -l") != 0) {
-		exit
+		procesare = 0
 	}
 	
 	if (procesare == 1){
