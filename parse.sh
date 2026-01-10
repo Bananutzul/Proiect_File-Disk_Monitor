@@ -2,10 +2,10 @@
 
 filename="$1"
 
-[ -f $filename ] || (echo "Fisierul $filename nu exista!" && exit 0)
+[ -f "$filename" ] || {echo "Fisierul $filename nu exista!"; exit 1;}
 
 echo "Se parseaza fisierul $filename:"
-grep '^[d-]' $filename | awk '{
+grep '^[d-]' "$filename" | awk '{
 	perm=$1
 	
 	perm_afisare="Owner: "

@@ -2,7 +2,7 @@
 
 filename="$1"
 
-[ -f $filename ] || (echo "Fisierul $filename nu exista!" && exit 0)
+[ -f "$filename" ] || {echo "Fisierul $filename nu exista!"; exit 1;}
 
 cat "$filename" | awk '
 BEGIN {
